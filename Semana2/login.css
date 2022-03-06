@@ -1,0 +1,94 @@
+*{
+    font-family: 'Rochester';
+}
+.fondo {
+    background-color: #533E85; 
+    color: #000; 
+    font-family: 'Rochester', cursive;
+}
+
+.tit { 
+    color: #FFFA4D; 
+    font-size: 60px;
+    font-family: 'Rochester', cursive;
+    text-align: left;
+    padding-left: 350px;
+}
+.nav {
+    background-color: #F2C9E1; 
+    color: #000; 
+    font-family: 'Rochester', cursive;
+    font-size: 20px;
+    opacity: .9;
+    width: 1365px;
+    margin: 10px;
+    border-radius: 10px;
+    padding-left: 275px;
+    text-align: justify;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F2C9E1;
+    border-radius: 10px;
+    
+    
+}
+.hr {
+    border: 2px solid #F2C9E1;
+}
+
+.info{
+    color: black; 
+    font-weight: bolder;
+    font-family: 'RobotoSlab', cursive;
+    font-size: 40px;
+    opacity: .9;
+    padding-top: 0px;
+    padding-left: 50px;
+}
+
+.info1{
+    color: black; 
+    font-weight: bolder;
+    font-family: 'RobotoSlab', cursive;
+    font-size: 10px;
+    opacity: .9;
+    padding-top: 0px;
+    padding-left: 5200px;
+}
+
+.botones{
+    color: black; 
+    font-weight: bolder;
+    font-family: 'RobotoSlab', cursive;
+    font-size: 25px;
+    opacity: .9;
+    padding-top: 20px;
+    padding-left: 270px;
+    width: 500px;
+}
+
+.logo {
+    width: 400px;
+    height: 400px;
+    float: right;
+    padding-right: 250px;
+    padding-top: 50px;
+}
+
+.div1 {
+    width: 700px;
+    height: 500px;
+    background: #C1F8CF;
+    border-radius: 20px;
+}
+
+.campos{
+    width: 200px;
+    height: 20px;
+    text-align: justify;
+}
